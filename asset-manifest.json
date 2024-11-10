@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fitAura_app/static/css/main.98b1708e.css",
+    "main.js": "/fitAura_app/static/js/main.3f3c5876.js",
+    "static/media/banner2.png": "/fitAura_app/static/media/banner2.a8d1436df696cdf57242.png",
+    "static/media/Logo2.png": "/fitAura_app/static/media/Logo2.65655055dbc537f23c5f.png",
+    "static/media/gym.png": "/fitAura_app/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/fitAura_app/index.html",
+    "main.98b1708e.css.map": "/fitAura_app/static/css/main.98b1708e.css.map",
+    "main.3f3c5876.js.map": "/fitAura_app/static/js/main.3f3c5876.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98b1708e.css",
+    "static/js/main.3f3c5876.js"
+  ]
+}
